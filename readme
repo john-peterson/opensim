@@ -1,0 +1,7 @@
+I leave this in complete confusion. of android build settings and devices. cant imagine what or where this will work. how do i get these apis into the emulator. i will check if the system package is in the emu
+
+adb shell cmd package list packages | grep simalliance
+
+i am at a loss. i will try to survive argentina next winter ... i am in no hurry to do this
+
+my want was to have an opensim tool for installing connection codes. an open environment. .. i dont know were to get blank sim cards or if i need to format it with a laptop or external device sim reader before use..  i know the current sim cards are signed together with the program. i have seen verz little clear investigation of this    in the open  dd
